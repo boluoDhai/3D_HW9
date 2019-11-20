@@ -14,6 +14,8 @@
 
 - [预制的使用方法](#prefab)  
 
+- [视频网址](#video)
+
 </br></br>
 
 <h2 id="blood">血条(Health Bar)设计</h2>
@@ -103,5 +105,7 @@ IMGUI的特点是性能比较低, 主要用于游戏调试与自定义的Inspect
 - 然后将Canvas prefab拖到物体上, 变为子对象.
 - 最后修改相应的属性.  
 
+<h3 id="video">视频网址</h3>
 
+[http://www.iqiyi.com/w_19say2kr65.html](http://www.iqiyi.com/w_19say2kr65.html)
 
